@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 👋 Hi, I'm Raghav Awasthi<br><br>💻 Aspiring Software Developer | Cloud & DevOps Enthusiast  <br>🚀 Passionate about building scalable systems and learning new technologies  <br><br>---<br><br>🔭 I’m currently working on  <br>- DevOps projects (CI/CD, Docker, Cloud)<br><br>🤝 I’m looking to collaborate on  <br>- Open-source projects related to Cloud & DevOps <br><br>🆘 I’m looking for help with  <br>- Kubernetes & Advanced Cloud Architecture<br><br>🌱 I’m currently learning  <br>- AWS, Docker, Kubernetes, System Design<br><br>💬 Ask me about  <br>- Java, SQL, Cloud & DevOps basics<br><br>
+## 👋 Hi, I'm Raghav Awasthi<br><br>💻 Aspiring Software Developer | Cloud & DevOps Enthusiast  <br>🚀 Passionate about building scalable systems and learning new technologies  <br><br>---<br><br>🔭 I’m currently working on  <br>- DevOps projects (CI/CD, Docker, Cloud)<br><br>🤝 I’m looking to collaborate on  <br>- Open-source projects related to Cloud & DevOps <br><br>🆘 I’m looking for help with  <br>- Kubernetes & Advanced Cloud Architecture<br><br>🌱 I’m currently learning  <br>- AWS, Docker, Kubernetes, System Design<br><br>
 
 
 ## 🌐 Socials:
